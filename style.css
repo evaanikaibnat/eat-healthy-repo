@@ -26,8 +26,8 @@ h1 {
 }
 
 .half-width img {
-    width: 90%;
-    height: 70%;
+    width: 55%;
+
 }
 
 
@@ -71,4 +71,11 @@ a {
     padding-right: 200px;
     color: black;
 
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    height: 200px;
+    padding: 100px;
 }
